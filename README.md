@@ -1,2 +1,2 @@
 # EasyLife
-small ios tools to make life easier
+Small iOS apps to make life easier
